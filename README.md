@@ -1,4 +1,4 @@
-Advanced Java Topics with Android Studio
+Advanced Java Topics (October 10, 2019)
 # DoubleLinkedList
 
 Your project must be able to:
